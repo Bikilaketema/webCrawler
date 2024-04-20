@@ -19,13 +19,13 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/bikilaketema/webCrawler.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your_repository
+    cd webCrawler
     ```
 
 3. Create and activate a Python virtual environment:
@@ -51,7 +51,7 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 
     Replace `mycrawler` with the name of your crawler defined in the Scrapy spider class.
 
-2. Once the crawler completes, the scraped data will be saved into a JSON file.
+2. Once the crawler completes, the scraped data will be saved into a JSON file names scraped_data.json.
 
 ## Configuration
 
