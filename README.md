@@ -51,7 +51,7 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 
     Replace `mycrawler` with the name of your crawler defined in the Scrapy spider class.
 
-2. Once the crawler completes, the scraped data will be saved into a JSON file names `scraped_data.json`.
+2. Once the crawler completes, the scraped data will be saved into a JSON file named `scraped_data.json`.
 
 ## Configuration
 
