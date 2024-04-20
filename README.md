@@ -12,7 +12,6 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 
 - Python 3.x
 - Scrapy
-- A modern web browser (for testing and verification)
 
 ## Installation
 
