@@ -1,19 +1,19 @@
-# Oromiffa News Crawler
+# Oromiffa News Crawler 🕷️
 
 This crawler is designed to scrape news articles from the press.et/oromiffa website. It is implemented using Scrapy, a powerful web crawling and scraping framework for Python.
 
-## Features
+## Features ✨
 
 - Crawls news articles from the press.et/oromiffa website.
 - Saves the scraped data into a JSON file.
 - Utilizes Python virtual environment for isolated package management.
 
-## Requirements
+## Requirements 📋
 
 - Python 3.x
 - Scrapy
 
-## Installation
+## Installation 💻
 
 1. Clone this repository to your local machine:
 
@@ -40,7 +40,7 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
     pip install -r requirements.txt
     ```
 
-## Usage
+## Usage 🚀
 
 1. Run the crawler using the following command:
 
@@ -52,7 +52,7 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 
 2. Once the crawler completes, the scraped data will be saved into a JSON file named `scraped_data.json`.
 
-## Configuration
+## Configuration ⚙️
 
 - You can customize the crawler behavior by modifying the spider class in `spiders` directory.
 - Adjust the Scrapy settings in the `settings.py` file to suit your requirements.
