@@ -10,7 +10,7 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 
 ## Requirements 📋
 
-- Python 3.x
+- Python 3.10
 - Scrapy
 
 ## Installation 💻
@@ -48,7 +48,6 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
     scrapy crawl mycrawler
     ```
 
-    Replace `mycrawler` with the name of your crawler defined in the Scrapy spider class.
 
 2. Once the crawler completes, the scraped data will be saved into a JSON file named `scraped_data.json`.
 
