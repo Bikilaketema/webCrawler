@@ -45,7 +45,7 @@ This crawler is designed to scrape news articles from the press.et/oromiffa webs
 1. Run the crawler using the following command:
 
     ```bash
-    scrapy crawl mycrawler
+    scrapy crawl press_et
     ```
 
 
