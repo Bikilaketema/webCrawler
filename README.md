@@ -27,10 +27,6 @@ To use the ISR system with UI:
 4. Start the system using the appropriate commands (`npm start`).
 5. Access the system via the provided URL and interact with the UI to query and retrieve information.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributors
 
 - [Bikila Ketema](https://github.com/bikilaketema)
