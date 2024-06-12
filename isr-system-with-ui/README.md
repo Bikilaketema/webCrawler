@@ -1,4 +1,4 @@
-# IR Assignment - Information Retrieval System
+# IR Assignment - Afaan Oromoo news Retrieval System
 
 🔍 **Overview:**
 
@@ -40,7 +40,7 @@ This project implements basic Information Storage and Retrieval concepts for Afa
 
 💻 **Technologies Used:**
 
-- React: Frontend development library.
+- React JS: Frontend development library.
 
 📝 **Usage:**
 
