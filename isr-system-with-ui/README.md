@@ -57,10 +57,6 @@ This project implements basic Information Storage and Retrieval concepts for Afa
 ![Screenshot4](screenshots/screenshot4.png)
 ![Screenshot5](screenshots/screenshot5.png)
 
-📄 **License:**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 👥 **Contributors:**
 
 - [Bikila Ketema](https://github.com/bikilaketema)
