@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.document {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+mark {
+  background-color: yellow;
+}
