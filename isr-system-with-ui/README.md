@@ -57,10 +57,6 @@ This project implements basic Information Storage and Retrieval concepts for Afa
 ![Screenshot4](screenshots/screenshot4.png)
 ![Screenshot5](screenshots/screenshot5.png)
 
-👥 **Contributors:**
-
-- [Bikila Ketema](https://github.com/bikilaketema)
-
 📅 **Due Date:**
 
 This project is due three days after the end of finals(June 17,2024).

@@ -27,10 +27,4 @@ To use the ISR system with UI:
 4. Start the system using the appropriate commands (`npm start`).
 5. Access the system via the provided URL and interact with the UI to query and retrieve information.
 
-## Contributors
-
-- [Bikila Ketema](https://github.com/bikilaketema)
-
-For detailed usage instructions and contribution guidelines, refer to the respective directories' README files.
-
 For any queries or assistance, please contact [bikilaketema94@gmail.com](mailto:bikilaketema94@gmail.com).
